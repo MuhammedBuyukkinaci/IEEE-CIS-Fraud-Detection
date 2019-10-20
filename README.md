@@ -1,5 +1,9 @@
 # IEEE-CIS Fraud Detection
 
+# My Result
+
+![alt text](https://github.com/MuhammedBuyukkinaci/IEEE-CIS-Fraud-Detection/blob/master/my_result.png)
+
 # Lessons Learned
 
 1) Create UID(Unique Identification) with card1,addr1 and D1. D1 is difference between when dard was published and when the cars was used. Create a new feature D1n, which is TransactionDay minus D1.
